@@ -60,12 +60,14 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 **Stack:** Laravel, jQuery, MariaDB, WebSockets, Node.js
 
-#### Clip - Banking Applications
-> Credit and mortgage application systems for financial institutions.
+#### Clip - Banking Credit Platform
+> B2B credit management platform enabling mortgage brokers and partners to submit and track consumer & real estate loan applications.
 
-- Consumer and real estate credit workflows
-- Secure document management
-- Multi-step application processes
+- Full-stack solo development of the broker-facing application
+- CLIP API gateway for partner integrations (simulators, application forms)
+- Credit bureau integrations for automated scoring and risk assessment
+- End-to-end workflow: simulation → application → approval → disbursement
+- Processing hundreds of credit applications monthly
 
 **Stack:** C#, .NET Core, React, TypeScript, Redux, PostgreSQL
 
