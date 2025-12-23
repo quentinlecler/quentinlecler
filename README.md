@@ -75,4 +75,4 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 - Website: [lecler.dev](https://lecler.dev)
 - LinkedIn: [Connect with me](https://linkedin.com/in/qlecler)
-- Location: Liège, Belgium
+- Location:  Liège, Belgium 🇱🇺
