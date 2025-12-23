@@ -60,7 +60,7 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 **Stack:** Laravel, jQuery, MariaDB, WebSockets, Node.js
 
-#### Banking Applications
+#### Clip - Banking Applications
 > Credit and mortgage application systems for financial institutions.
 
 - Consumer and real estate credit workflows
