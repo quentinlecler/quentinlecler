@@ -10,11 +10,11 @@
 
 ### About Me
 
-Full-Stack Developer with experience in **banking** and **healthcare** sectors. I build robust, scalable applications from database design to UI/UX implementation.
+Full-Stack Developer specialized in **regulated industries** where reliability matters. I build end-to-end solutions for banking and healthcare — two sectors with zero tolerance for bugs.
 
-- Currently developing **Doctipro**, a healthcare management platform for medical professionals
-- Previously worked on credit/mortgage applications in the banking sector
-- Passionate about clean architecture and efficient solutions
+- 🏥 Healthcare: medical device integrations, patient workflows, multi-site architectures
+- 🏦 Banking: credit processing, broker portals, compliance-ready systems
+- ⚙️ Approach: clean architecture, pragmatic solutions, ship fast without breaking things
 
 ---
 
@@ -51,23 +51,24 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 ### Featured Projects
 
 #### Doctipro - Healthcare Management Platform
-> Complete medical practice management solution for doctors, ophthalmologists, and healthcare professionals.
+> Medical practice management platform used by 50+ healthcare professionals across multiple clinics.
 
+- Direct hardware integration with ophthalmic devices (Tonoref2, RT5100) for automated exam data capture
+- Real-time waiting room management via WebSockets
 - Patient records, appointments, prescriptions, medical examinations
-- Real-time WebSocket integration for waiting room management
-- Hardware integrations (Tonoref2, RT5100 medical devices)
-- Multi-hospital architecture with role-based access
+- Multi-hospital architecture with role-based access control
 
 **Stack:** Laravel, jQuery, MariaDB, WebSockets, Node.js
+
+---
 
 #### Clip - Banking Credit Platform
 > B2B credit management platform enabling mortgage brokers and partners to submit and track consumer & real estate loan applications.
 
 - Full-stack solo development of the broker-facing application
-- CLIP API gateway for partner integrations (simulators, application forms)
+- CLIP API gateway for partner integrations (simulators, credit application forms)
 - Credit bureau integrations for automated scoring and risk assessment
 - End-to-end workflow: simulation → application → approval → disbursement
-- Processing hundreds of credit applications monthly
 
 **Stack:** C#, .NET Core, React, TypeScript, Redux, PostgreSQL
 
@@ -75,6 +76,6 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 ### Get in Touch
 
-- Website: [lecler.dev](https://lecler.dev)
-- LinkedIn: [Connect with me](https://linkedin.com/in/qlecler)
-- Location:  Liège, Belgium 🇱🇺
+- 🌐 Website: [lecler.dev](https://lecler.dev)
+- 💼 LinkedIn: [/in/qlecler](https://linkedin.com/in/qlecler)
+- 📍 Liège, Belgium
