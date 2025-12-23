@@ -12,7 +12,7 @@
 
 Full-Stack Developer with experience in **banking** and **healthcare** sectors. I build robust, scalable applications from database design to UI/UX implementation.
 
-- Currently developing **DoctiPro**, a healthcare management platform for medical professionals
+- Currently developing **Doctipro**, a healthcare management platform for medical professionals
 - Previously worked on credit/mortgage applications in the banking sector
 - Passionate about clean architecture and efficient solutions
 
@@ -50,7 +50,7 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 ### Featured Projects
 
-#### DoctiPro - Healthcare Management Platform
+#### Doctipro - Healthcare Management Platform
 > Complete medical practice management solution for doctors, ophthalmologists, and healthcare professionals.
 
 - Patient records, appointments, prescriptions, medical examinations
