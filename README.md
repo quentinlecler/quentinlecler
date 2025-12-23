@@ -78,4 +78,4 @@ Full-Stack Developer specialized in **regulated industries** where reliability m
 
 - 🌐 Website: [lecler.dev](https://lecler.dev)
 - 💼 LinkedIn: [/in/qlecler](https://linkedin.com/in/qlecler)
-- 📍 Liège, Belgium
+- 📍 Liège, Belgium → Luxembourg
