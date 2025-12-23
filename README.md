@@ -71,14 +71,6 @@ Full-Stack Developer with experience in **banking** and **healthcare** sectors. 
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quentinlecler&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlecler&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### Get in Touch
 
 - Website: [lecler.dev](https://lecler.dev)
