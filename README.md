@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
-**Backend** — PHP · Laravel · Node.js · C# / .NET Core · MariaDB · PostgreSQL · Sybase · MySQL
+**Backend** — PHP · Laravel · Node.js · C# / .NET Core · MariaDB · PostgreSQL · Sybase · MySQL<br>
 **Frontend** — Vue.js · React · TypeScript · Sass
 **Infrastructure** — Docker · REST APIs · OAuth2 · OpenID Connect · WebSocket
 **Networking & Security** — CCNA · CyberOps Associate (Cisco)
