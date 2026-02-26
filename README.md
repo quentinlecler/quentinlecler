@@ -12,8 +12,8 @@
 ## Tech Stack
 
 **Backend** — PHP · Laravel · Node.js · C# / .NET Core · MariaDB · PostgreSQL · Sybase · MySQL<br>
-**Frontend** — Vue.js · React · TypeScript · Sass
-**Infrastructure** — Docker · REST APIs · OAuth2 · OpenID Connect · WebSocket
+**Frontend** — Vue.js · React · TypeScript · Sass<br>
+**Infrastructure** — Docker · REST APIs · OAuth2 · OpenID Connect · WebSocket<br>
 **Networking & Security** — CCNA · CyberOps Associate (Cisco)
 
 ---
@@ -24,13 +24,13 @@
 
 Ophthalmology SaaS platform integrated with the Luxembourg national health system (CNS PID V2).
 
-- Real-time virtual waiting room via WebSocket
-- Integrated ophthalmic devices RT5100 Nidek, Tonoref 2 via Node.js
-- Full EMR module — medical exams, patient photos, history, intra-hospital sharing
-- Unified prescription management glasses and lenses
-- Direct payment processing CNS PID V2
-- Third-party laboratory OAuth2 integration (Bionext)
-- Database migration MyISAM → InnoDB — performance and integrity
+- Real-time virtual waiting room via WebSocket<br>
+- Integrated ophthalmic devices RT5100 Nidek, Tonoref 2 via Node.js<br>
+- Full EMR module — medical exams, patient photos, history, intra-hospital sharing<br>
+- Unified prescription management glasses and lenses<br>
+- Direct payment processing CNS PID V2<br>
+- Third-party laboratory OAuth2 integration (Bionext)<br>
+- Database migration MyISAM → InnoDB — performance and integrity<br>
 
 `PHP` `Laravel` `MariaDB` `Node.js` `WebSocket` `REST APIs` `OAuth2` `Sass` `Vite` `CNS PID V2`
 
@@ -40,13 +40,13 @@ Ophthalmology SaaS platform integrated with the Luxembourg national health syste
 
 Full financial SaaS platform for mortgage and consumer credit management, serving multiple broker agencies across Luxembourg. Sole developer — 100% frontend and backend.
 
-- No-code landing page configurator — layout, simulator, form, colors, fonts, domain → publish instantly
-- Custom loan simulator and lead generation forms
-- Custom domain and email management per broker
-- Complete loan request workflow
-- Role-based access control granular permissions
-- Billing automation via Zoho API
-- CLIP payment gateway integration
+- No-code landing page configurator — layout, simulator, form, colors, fonts, domain → publish instantly<br>
+- Custom loan simulator and lead generation forms<br>
+- Custom domain and email management per broker<br>
+- Complete loan request workflow<br>
+- Role-based access control granular permissions<br>
+- Billing automation via Zoho API<br>
+- CLIP payment gateway integration<br>
 - Anysoft broker platform API integration
 
 `PHP` `Laravel` `PostgreSQL` `React` `Vue.js` `TypeScript` `Sass` `REST APIs` `Adobe XD` `Zoho API`
@@ -57,12 +57,12 @@ Full financial SaaS platform for mortgage and consumer credit management, servin
 
 Sole developer — migrated CLIP Windows desktop app to modern web SaaS serving hundreds of brokers across Benelux.
 
-- Full migration Windows/desktop → web SaaS — sole developer
-- Complete mortgage and consumer credit management SaaS in React
-- Integrated Belfius, Cofidis, BNP Paribas Fortis, Elantis
-- C# API gateways for loan submission to banking partners
-- Identity verification with card reader
-- SMS/email communication system
+- Full migration Windows/desktop → web SaaS — sole developer<br>
+- Complete mortgage and consumer credit management SaaS in React<br>
+- Integrated Belfius, Cofidis, BNP Paribas Fortis, Elantis<br>
+- C# API gateways for loan submission to banking partners<br>
+- Identity verification with card reader<br>
+- SMS/email communication system<br>
 - Hundreds of brokers across Benelux
 
 `React` `TypeScript` `Node.js` `.NET Core` `C#` `Sybase` `REST APIs`
@@ -73,9 +73,9 @@ Sole developer — migrated CLIP Windows desktop app to modern web SaaS serving 
 
 Web and mobile applications for the agri-food sector, working with major clients across Belgium.
 
-- Quality Control SaaS for Vinçotte inspectors at Belgium's largest Carrefour distribution center
-- Companion mobile app iOS & Android for warehouse inspections
-- Brunswick Marine client integration
+- Quality Control SaaS for Vinçotte inspectors at Belgium's largest Carrefour distribution center<br>
+- Companion mobile app iOS & Android for warehouse inspections<br>
+- Brunswick Marine client integration<br>
 - Full ownership frontend, backend, database and mobile
 
 `PHP` `Zend Framework` `PostgreSQL` `Angular.js` `React` `Ionic` `Cordova` `Mobile iOS & Android`
