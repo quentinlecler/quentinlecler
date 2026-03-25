@@ -25,7 +25,7 @@
 Ophthalmology SaaS platform integrated with the Luxembourg national health system (CNS PID V2).
 
 - Real-time virtual waiting room via WebSocket<br>
-- Integrated ophthalmic devices RT5100 Nidek, Tonoref 2 via Node.js<br>
+- Integrated Nidek ophthalmic equipment via Node.js<br>
 - Full EMR module — medical exams, patient photos, history, intra-hospital sharing<br>
 - Unified prescription management glasses and lenses<br>
 - Direct payment processing CNS PID V2<br>
