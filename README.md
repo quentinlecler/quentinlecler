@@ -1,19 +1,21 @@
 # Quentin Lecler
 
-**Senior Full-Stack Developer**
+**Senior Full-Stack Developer · Laravel expert v5 → v12**
 8+ years building mission-critical SaaS for healthcare and finance in Luxembourg.
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qlecler)
+[![Malt](https://img.shields.io/badge/Malt-FC5656?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==&logoColor=white)](https://en.malt.be/profile/quentinlecler)
 [![Email](https://img.shields.io/badge/quentin@lecler.dev-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:quentin@lecler.dev)
 
 ---
 
 ## Tech Stack
 
-**Backend** — PHP · Laravel · Node.js · C# / .NET Core · MariaDB · PostgreSQL · Sybase · MySQL<br>
+**Backend** — PHP · Laravel · Node.js · MariaDB · PostgreSQL · Sybase<br>
 **Frontend** — Vue.js · React · TypeScript · Sass<br>
-**Infrastructure** — Docker · REST APIs · OAuth2 · OpenID Connect · WebSocket<br>
+**Infrastructure** — Docker · Nginx · Apache2 · GitHub Actions · Laravel Reverb · REST APIs · OAuth2 · OpenID Connect · Supervisord<br>
+**Testing & Quality** — PHPUnit · Vitest · Playwright E2E · TDD · 80%+ coverage<br>
 **Networking & Security** — CCNA · CyberOps Associate (Cisco)
 
 ---
@@ -24,7 +26,7 @@
 
 Ophthalmology SaaS platform integrated with the Luxembourg national health system (CNS PID V2).
 
-- Real-time virtual waiting room via WebSocket<br>
+- Real-time virtual waiting room via WebSocket (Laravel Reverb)<br>
 - Integrated Nidek ophthalmic equipment via Node.js<br>
 - Full EMR module — medical exams, patient photos, history, intra-hospital sharing<br>
 - Unified prescription management glasses and lenses<br>
@@ -32,7 +34,7 @@ Ophthalmology SaaS platform integrated with the Luxembourg national health syste
 - Third-party laboratory OAuth2 integration (Bionext)<br>
 - Database migration MyISAM → InnoDB — performance and integrity<br>
 
-`PHP` `Laravel` `MariaDB` `Node.js` `WebSocket` `REST APIs` `OAuth2` `Sass` `Vite` `CNS PID V2`
+`PHP` `Laravel 8→12` `Laravel Reverb` `MariaDB` `Node.js` `OAuth2` `PHPUnit` `Playwright E2E` `GitHub Actions` `Nginx` `CNS PID V2`
 
 ---
 
@@ -49,7 +51,7 @@ Full financial SaaS platform for mortgage and consumer credit management, servin
 - CLIP payment gateway integration<br>
 - Anysoft broker platform API integration
 
-`PHP` `Laravel` `PostgreSQL` `React` `Vue.js` `TypeScript` `Sass` `REST APIs` `Adobe XD` `Zoho API`
+`PHP` `Laravel` `PostgreSQL` `React` `Vue.js` `TypeScript` `Sass` `Zoho API`
 
 ---
 
@@ -65,7 +67,7 @@ Sole developer — migrated CLIP Windows desktop app to modern web SaaS serving 
 - SMS/email communication system<br>
 - Hundreds of brokers across Benelux
 
-`React` `TypeScript` `Node.js` `.NET Core` `C#` `Sybase` `REST APIs`
+`React` `TypeScript` `Node.js` `Sybase` `REST APIs`
 
 ---
 
@@ -78,7 +80,7 @@ Web and mobile applications for the agri-food sector, working with major clients
 - Brunswick Marine client integration<br>
 - Full ownership frontend, backend, database and mobile
 
-`PHP` `Zend Framework` `PostgreSQL` `Angular.js` `React` `Ionic` `Cordova` `Mobile iOS & Android`
+`PHP` `Zend Framework` `PostgreSQL` `Angular.js` `React` `Ionic` `Cordova`
 
 ---
 
