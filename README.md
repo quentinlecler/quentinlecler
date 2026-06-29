@@ -1,6 +1,6 @@
 # Quentin Lecler
 
-**Senior Full-Stack Developer · Laravel expert v5 → v12**
+**Senior Full-Stack Developer · Laravel expert v5 → v13**
 8+ years building mission-critical SaaS for healthcare and finance in Luxembourg.
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
