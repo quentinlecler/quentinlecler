@@ -1,7 +1,7 @@
 # Quentin Lecler
 
-**Senior Full-Stack Developer · Laravel expert v5 → v13**
-8+ years building mission-critical SaaS for healthcare and finance in Luxembourg.
+**Tech Lead & Laravel Expert v5 → v13**
+8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Available freelance from August 1, 2026
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qlecler)
@@ -12,9 +12,9 @@
 
 ## Tech Stack
 
-**Backend** — PHP · Laravel · Node.js · MariaDB · PostgreSQL · MySQL · Sybase<br>
+**Backend** — PHP · Laravel · Node.js · MariaDB · PostgreSQL · Sybase<br>
 **Frontend** — Vue.js · React · TypeScript · Sass<br>
-**Infrastructure** — Docker · Nginx · Apache2 · GitHub Actions · Laravel Reverb · REST APIs · OAuth2 · OpenID Connect · Keycloak · Supervisord<br>
+**Infrastructure** — Docker · Nginx · GitHub Actions · Laravel Reverb · REST APIs · OAuth2 · OpenID Connect · Keycloak · Supervisord<br>
 **Testing & Quality** — PHPUnit · Vitest · Playwright E2E · TDD · 80%+ coverage<br>
 **Networking & Security** — CCNA · CyberOps Associate (Cisco)
 
@@ -36,7 +36,7 @@ Full Stack Developer & Tech Lead — Ophthalmology SaaS integrated with the Luxe
 - Third-party laboratory OAuth2 integration (Bionext)<br>
 - Integrated Claude Code into code review pipeline — automated security and quality gates before pre-prod merges<br>
 
-`PHP` `Laravel 8→12` `Laravel Reverb` `MariaDB` `Node.js` `OAuth2` `PHPUnit` `Playwright E2E` `GitHub Actions` `Nginx` `CNS PID V2` `CNS eCIT` `LuxTrust`
+`PHP` `Laravel 8→13` `Laravel Reverb` `MariaDB` `Node.js` `OAuth2` `PHPUnit` `Playwright E2E` `GitHub Actions` `Nginx` `CNS PID V2` `CNS eCIT` `LuxTrust`
 
 ---
 
