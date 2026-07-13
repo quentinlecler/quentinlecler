@@ -1,7 +1,7 @@
 # Quentin Lecler
 
-**Tech Lead & Laravel Expert v5 → v13**
-8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Available freelance from August 1, 2026
+**Tech Lead — Laravel & Node.js**
+8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Open to full-time & freelance from August 1, 2026
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qlecler)
@@ -29,7 +29,7 @@ Full Stack Developer & Tech Lead — Ophthalmology SaaS integrated with the Luxe
 - Led technical architecture, technology decisions, and code review gating — CI/CD via GitHub Actions, sprint tracking with GitHub Projects<br>
 - Identified and patched critical security vulnerabilities (RCE, IDOR, XSS) through defensive pentesting<br>
 - Real-time virtual waiting room via WebSocket (Laravel Reverb)<br>
-- Integrated ophthalmic medical devices (Nidek) via Node.js<br>
+- Integrated ophthalmic medical devices (Nidek) via Node.js — serial protocol parsing, CIFS photo extraction, local WebSocket bridge into the SaaS<br>
 - Full EMR module — medical exams, patient photos, history, intra-hospital sharing<br>
 - Unified prescription management glasses and lenses<br>
 - Direct payment processing CNS PID V2<br>
@@ -64,7 +64,7 @@ Sole developer — migrated CLIP Windows desktop app to modern web SaaS serving 
 - Full migration Windows/desktop → web SaaS — sole developer<br>
 - Complete mortgage and consumer credit management SaaS in React<br>
 - Integrated Belfius, Cofidis, BNP Paribas Fortis, Elantis<br>
-- C# API gateways for loan submission to banking partners<br>
+- Node.js/Express and C# API gateways — JWT-secured — bridging the frontend to loan submission and payment integrations with banking partners<br>
 - Identity verification with card reader<br>
 - SMS/email communication system
 
@@ -79,9 +79,10 @@ Web and mobile applications for the agri-food sector, working with major clients
 - Quality Control SaaS for Vinçotte inspectors at Belgium's largest Carrefour distribution center<br>
 - Companion mobile app iOS & Android for warehouse inspections<br>
 - Brunswick Marine client integration<br>
-- Full ownership frontend, backend, database and mobile
+- Full ownership frontend, backend, database and mobile<br>
+- Built Node.js/Express REST APIs (Sequelize, PostgreSQL) with JWT auth for React-based modules
 
-`PHP` `Zend Framework` `PostgreSQL` `Angular.js` `React` `Ionic` `Cordova`
+`PHP` `Zend Framework` `Python` `Django` `Node.js` `Express` `Sequelize` `JWT` `PostgreSQL` `Angular.js` `React` `Ionic` `Cordova`
 
 ---
 
