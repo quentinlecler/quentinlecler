@@ -88,6 +88,6 @@ Web and mobile applications for the agri-food sector, working with major clients
 
 ## Education & Certifications
 
-🎓 **Bachelor's in Computer Science & Management** — IPEPS Verviers *(2016 → 2018)*<br>
+🎓 **Computer Science & Management** — IPEPS Verviers *(2016 → 2018)*<br>
 🛡️ **CyberOps Associate** — Cisco Networking Academy *(2017 → 2018)*<br>
 🛡️ **CCNA — Cisco Certified Network Associate** — Cisco Networking Academy *(2016 → 2017)*
