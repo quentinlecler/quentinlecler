@@ -1,6 +1,6 @@
 # Quentin Lecler
 
-**Tech Lead — Laravel & Node.js**
+**Senior Full-Stack Developer**
 8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Open to full-time & freelance from August 1, 2026
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
@@ -12,7 +12,7 @@
 
 ## Tech Stack
 
-**Backend** — PHP · Laravel · Node.js · MariaDB · PostgreSQL · Sybase<br>
+**Backend** — PHP · Laravel · Node.js · Python · Django · MariaDB · PostgreSQL · Sybase<br>
 **Frontend** — Vue.js · React · TypeScript · Sass<br>
 **Infrastructure** — Docker · Nginx · GitHub Actions · Laravel Reverb · REST APIs · OAuth2 · OpenID Connect · Keycloak · Supervisord<br>
 **Testing & Quality** — PHPUnit · Vitest · Playwright E2E · TDD · 80%+ coverage<br>
@@ -36,7 +36,7 @@ Full Stack Developer & Tech Lead — Ophthalmology SaaS integrated with the Luxe
 - Third-party laboratory OAuth2 integration (Bionext)<br>
 - Integrated Claude Code into code review pipeline — automated security and quality gates before pre-prod merges<br>
 
-`PHP` `Laravel 8→13` `Laravel Reverb` `MariaDB` `Node.js` `OAuth2` `PHPUnit` `Playwright E2E` `GitHub Actions` `Nginx` `CNS PID V2` `CNS eCIT` `LuxTrust`
+`PHP` `Laravel 8→13` `Laravel Reverb` `MariaDB` `Node.js` `Express` `WebSocket` `OAuth2` `PHPUnit` `Playwright E2E` `GitHub Actions` `Docker` `Nginx` `CNS PID V2` `CNS eCIT` `LuxTrust`
 
 ---
 
@@ -88,6 +88,6 @@ Web and mobile applications for the agri-food sector, working with major clients
 
 ## Education & Certifications
 
-🎓 **Computer Science & Management** — IPEPS Verviers *(2016 → 2018)*<br>
+🎓 **Computer Science — Business Applications** — IPEPS Verviers *(2016 → 2018)*<br>
 🛡️ **CyberOps Associate** — Cisco Networking Academy *(2017 → 2018)*<br>
 🛡️ **CCNA — Cisco Certified Network Associate** — Cisco Networking Academy *(2016 → 2017)*
