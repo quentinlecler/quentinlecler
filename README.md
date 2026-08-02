@@ -22,7 +22,7 @@
 
 ## Experience
 
-### Doctipro — Healthcare SaaS · Luxembourg *(July 2025 → present)*
+### Doctipro — Healthcare SaaS · Luxembourg *(July 2025 → July 2026)*
 
 Full Stack Developer & Tech Lead — Ophthalmology SaaS integrated with the Luxembourg national health system (CNS PID V2, CNS eCIT, LuxTrust).
 
