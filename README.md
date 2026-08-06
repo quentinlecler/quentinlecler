@@ -1,7 +1,7 @@
 # Quentin Lecler
 
 **Senior Full-Stack Developer**
-8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Open to full-time & freelance from August 1, 2026
+8+ years building mission-critical SaaS for healthcare and finance in Luxembourg · Open to full-time & freelance
 
 [![Website](https://img.shields.io/badge/lecler.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://lecler.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/qlecler)
